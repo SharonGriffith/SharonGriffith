@@ -1,4 +1,4 @@
-yes<h1 align="center">Hi 👋, I'm Sharon Griffith</h1>
+<h1 align="center">Hi 👋, I'm Sharon Griffith</h1>
 <h3 align="center">Java Spring Boot Developer | Software Engineer | Accessibility Advocate | Software Engineering Resident @ Headstarter AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharongriffith&label=Profile%20views&color=0e75b6&style=flat" alt="sharongriffith" /> </p>
@@ -14,7 +14,7 @@ yes<h1 align="center">Hi 👋, I'm Sharon Griffith</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hippygriffith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hippygriffith" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SharonGriffith-AI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@SharonGriffith-AI" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HippyGriffith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@HippyGriffith" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
