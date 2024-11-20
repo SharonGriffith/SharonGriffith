@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharon Griffith</h1>
-<h3 align="center">Java Spring Boot Developer | Software Engineer | Accessibility Advocate | Software Engineering Fellow @ Headstarter AI</h3>
+<h3 align="center">Java Spring Boot Developer | Software Engineer | Accessibility Advocate | Software Engineering Resident @ Headstarter AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharongriffith&label=Profile%20views&color=0e75b6&style=flat" alt="sharongriffith" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hippygriffith" target="blank"><img src="https://img.shields.io/twitter/follow/hippygriffith?logo=twitter&style=for-the-badge" alt="hippygriffith" /></a> </p>
 
-- 📝 I regularly write articles on [Cross Entropy/](https://hippygriffith.substack.com/)
+- 📝 I regularly write articles on [Substack (Cross Entropy)](https://hippygriffith.substack.com/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sharon-griffith-a11y/](https://www.linkedin.com/in/sharon-griffith-a11y/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sharon-griffith-a11y/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
