@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Substack](https://hippygriffith.substack.com/)
 
-- 📄 My work history can be found on LinkedIn [LinkedIn](https://www.linkedin.com/in/sharon-griffith-a11y/)
+- 📄 My work history can be found on [LinkedIn](https://www.linkedin.com/in/sharon-griffith-a11y/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
