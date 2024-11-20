@@ -7,14 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/hippygriffith" target="blank"><img src="https://img.shields.io/twitter/follow/hippygriffith?logo=twitter&style=for-the-badge" alt="hippygriffith" /></a> </p>
 
-- 📝 I regularly write articles on [Substack (Cross Entropy)](https://hippygriffith.substack.com/)
+- 📝 I regularly write articles on [Substack](https://hippygriffith.substack.com/)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sharon-griffith-a11y/)
+- 📄 My work history can be found on LinkedIn [LinkedIn](https://www.linkedin.com/in/sharon-griffith-a11y/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hippygriffith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hippygriffith" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc6uffgljqyhfsthwke0zdjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6uffgljqyhfsthwke0zdjg" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/@SharonGriffith-AI](https://www.youtube.com/@SharonGriffith-AI)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@SharonGriffith-AI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
