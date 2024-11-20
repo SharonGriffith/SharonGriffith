@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharon Griffith</h1>
+yes<h1 align="center">Hi 👋, I'm Sharon Griffith</h1>
 <h3 align="center">Java Spring Boot Developer | Software Engineer | Accessibility Advocate | Software Engineering Resident @ Headstarter AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharongriffith&label=Profile%20views&color=0e75b6&style=flat" alt="sharongriffith" /> </p>
