@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hippygriffith" target="blank"><img src="https://img.shields.io/twitter/follow/hippygriffith?logo=twitter&style=for-the-badge" alt="hippygriffith" /></a> </p>
 
-- 📝 I regularly write articles on [https://sharongriffitha11y.substack.com/](https://sharongriffitha11y.substack.com/)
+- 📝 I regularly write articles on [Cross Entropy/](https://hippygriffith.substack.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sharon-griffith-a11y/](https://www.linkedin.com/in/sharon-griffith-a11y/)
 
